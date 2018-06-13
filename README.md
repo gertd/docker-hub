@@ -1,2 +1,2 @@
-# docker-hub-cmd
-Docker Hub Command line tool to list, remove images etc.
+# docker-hub
+Docker Hub command line tool to list, remove images etc.
